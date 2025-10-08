@@ -1,9 +1,3 @@
-# IPL-Match-Outcome-Prediction-Machine-Learning-
-Machine Learning project utilizing the IPL Dataset to perform predictive analytics on bowler performance and match outcomes
-This is a comprehensive README content suitable for your GitHub repository. It highlights the key technical aspects and the project's goal based on the file name and the code snippets.
-
------
-
 # 🏏 IPL Bowler Performance Prediction using Machine Learning
 
 ## 📝 Overview
