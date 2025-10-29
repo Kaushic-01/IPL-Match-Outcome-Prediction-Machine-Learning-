@@ -1,4 +1,4 @@
-# 🏏 IPL Bowler Performance Prediction using Machine Learning
+# 🏏 IPL PLayer Performance Prediction using Machine Learning
 
 ## 📝 Overview
 
